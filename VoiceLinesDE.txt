@@ -1,0 +1,172 @@
+ANFÜHRER WERDEN
+---------------
+Jawohl, wurde auch langsam Zeit.
+
+MÜDE
+----
+Wir müssen rasten. Lasst uns anhalten und ein Feuer machen, bevor die Jagd weitergeht.
+
+GELANGWEILT
+-----------
+Dieses Wartespiel ist nicht auszuhalten. Wenn wir nicht bald was machen, suche ich mir eine ruhige Ecke für ein Nickerchen.
+
+SCHLACHTRUF 1
+-------------
+Dich gibts nicht mehr lang.
+
+SCHLACHTRUF 2
+-------------
+Ich zieh dir das Fell über die Ohren!
+
+SCHLACHTRUF 3
+-------------
+Auf zur Jagd!
+
+SCHLACHTRUF 4
+-------------
+Jetzt gibt's Ärger!
+
+SCHLACHTRUF 5
+-------------
+Zeige Respekt, oder leide!
+
+GETROFFEN WERDEN
+----------------
+Ugh, is nur'n Kratzer.
+
+STERBEN
+-------
+Neeeiin, ich darf...nicht...sterben! Ugh...
+
+SCHWER VERWUNDET
+----------------
+Uff, verdammt, meine Wunden schließen sich nicht von alleine.
+
+IM WALD
+-------
+Die Wildnis ist das perfekte Jagdrevier! Dichtes Blattwerk und tiefe Schatten.
+
+IN DER STADT
+------------
+Frische Luft ist hier eine Seltenheit, aber dafür kann man in der Stadt mit etwas Glück reich werden.
+
+IM KERKER
+---------
+Ich mag solche dunklen Orte nicht. Ich habe das Gefühl, beobachtet zu werden.
+
+TAGSÜBER
+--------
+Zumindest ist diese grelle Sonne nicht so schlimm wie ein Schneesturm.
+
+NACHTS
+------
+Der Mond und die Nacht...lauscht genau, und beobachtet eure Umgebung.
+
+AUSGEWÄHLT 1
+------------
+Ich vertraue dir.
+
+AUSGEWÄHLT 2
+------------
+Suchen wir nach Trophäen.
+
+AUSGEWÄHLT 3
+------------
+Lass uns jagen gehen.
+
+AUSGEWÄHLT 4
+------------
+Ich höre.
+
+AUSGEWÄHLT 5
+------------
+Du kannst meinen Sinnen trauen.
+
+AUSGEWÄHLT 6
+------------
+huh?!
+
+AKTIONSBESTÄTIGUNG 1
+--------------------
+Das schaffe ich!
+
+AKTIONSBESTÄTIGUNG 2
+--------------------
+Endlich!
+
+AKTIONSBESTÄTIGUNG 3
+--------------------
+Genug geredet, zeit für Taten. 
+
+AKTIONSBESTÄTIGUNG 4
+--------------------
+Huh, was ist denn? Siehst du ein Kleintier etwa, dass du gerne haben möchtest?
+Verschwende meine Zeit nicht mit sowas.
+Aber wenn es etwas Größeres ist, dann jage ich es für dich, aber erwarte nicht, dass ich es koche.
+Ich bin kein Koch!
+
+AKTIONSBESTÄTIGUNG 5
+--------------------
+Winterwolf-Pelze, was? Wertvoll, sagst du? Hmm, das klingt nach einer lohnenden Jagd. 
+Könnte dich vielleicht auch etwas abkühlen, nach all dem Geplappere. Ich sag bloß'. Hah!
+
+AKTIONSBESTÄTIGUNG 6
+--------------------
+Meine Mutter?! Ich habe sie nie kennengelernt. Das ändert nichts daran, wie ich bin. Was nun?
+
+AKTIONSBESTÄTIGUNG 7
+--------------------
+Hah! Du bist mir ja ein Dorn im Auge. 
+Perfekt, behalte die Einstellung. Wir werden genug Ärger haben, um einen Troll zu erschrecken. 
+
+REAKTION AUF DEN TOD EINES GRUPPENMITGLIEDS
+-------------------------------------------
+Ruhe in frieden! Deine Rache ist bei uns in guten Händen.
+
+KRITISCHER TREFFER
+------------------
+Zorrrnnn
+
+KRITISCHER FEHLSCHLAG
+---------------------
+Hrm, ein flinker Gegner.
+
+ZIEL IST IMMUN
+--------------
+Immun! Meine Stärke ist wirkungslos.
+
+INVENTAR VOLL
+-------------
+Mein Rucksack ist voll! Vielleicht kann es jemand anderes tragen.
+
+TASCHENDIEBSTAHL
+----------------
+Das gehört jetzt mir.
+
+VERSTECKT IM SCHATTEN
+---------------------
+In die Schatten und mein Blick zur Beute.
+
+ZAUBER UNTERBROCHEN
+-------------------
+ugh, mein Zauber wirkt nicht!
+
+FALLE STELLEN
+-------------
+Listige Falle gelegt. Jetzt beginnt die eigentliche Jagd.
+
+BGEE AKTIONSBESTÄTIGUNG 4
+-------------------------
+So gut wie erledigt.
+
+BGEE AKTIONSBESTÄTIGUNG 5
+-------------------------
+Also gut, klingt nach einem soliden Plan.
+
+BGEE AKTIONSBESTÄTIGUNG 6
+-------------------------
+Einverstanden.
+
+BGEE AKTIONSBESTÄTIGUNG 7
+-------------------------
+Sicher doch.

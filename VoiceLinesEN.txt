@@ -1,0 +1,172 @@
+LEADER
+------
+Time to earn some respect.
+
+TIRED
+-----
+We need to camp. Let's stop and build a fire before the hunt continues.
+
+BORED
+-----
+This waiting game is killing me. If we don't move soon, I'm finding a quiet corner for a nap.
+
+BATTLE_CRY1
+-----------
+You won't last long!
+
+BATTLE_CRY2
+-----------
+Your hide is mine, now!
+
+BATTLE_CRY3
+-----------
+You WILL be hunted down!
+
+BATTLE_CRY4
+-----------
+Time for punishment.
+
+BATTLE_CRY5
+-----------
+Learn respect, or fall!
+
+DAMAGE
+------
+Ugh, just a scratch!
+
+DYING
+-----
+Nooo, I..must..live! Ugh... 
+
+HURT
+----
+Uff, looks like I'll be needing some fancy needlework. Again.
+
+AREA_FOREST
+-----------
+This forest's a hunter's paradise. Plenty of prey and shadows to hide in.
+
+AREA_CITY
+---------
+*sniff, sniff* Hrmm, stinks here. But hey, if you gotta hunt for gold instead of prey, the city is the place.
+
+AREA_DUNGEON
+------------
+I don't like this kind of dark places. I feel like I'm watched.
+
+AREA_DAY
+--------
+This sunshine ain't as bad as a blizzard, at least.
+
+AREA_NIGHT
+----------
+Under this moon, anything can happen. Keep your eyes sharp.
+
+SELECT_COMMON1
+--------------
+Tell me what you need.
+
+SELECT_COMMON2
+--------------
+Let's bring back some trophies.
+
+SELECT_COMMON3
+--------------
+Time for hunting, right?!
+
+SELECT_COMMON4
+--------------
+I am listening.
+
+SELECT_COMMON5
+--------------
+You can trust my senses.
+
+SELECT_COMMON6
+--------------
+huh?!
+
+SELECT_ACTION1
+--------------
+I can handle it.
+
+SELECT_ACTION2
+--------------
+Finally!
+
+SELECT_ACTION3
+--------------
+About time for some real action!
+
+SELECT_ACTION4
+--------------
+Huh, why you pokin' me? You see somethin' movin' out there? 
+Some scrawny rabbit or a sneaky runt maybe? 
+Don't waste my time with runts. 
+If it's somethin' bigger, point it out, but don't expect me to cook it after. I ain't no chef!
+
+SELECT_ACTION5
+--------------
+Winterwolf pelts, eh? Valuable you say? Hmm, sounds like a worthy hunt. 
+Might cool you down a bit too, after all that poking. Just sayin'. Hah!
+
+SELECT_ACTION6
+--------------
+My Mother?! Never knew her. Doesn't change who I am. Now what?
+
+SELECT_ACTION7
+--------------
+You're a thorn in my side, friend. 
+Perfect, keep that mindset. We'll face enough trouble to choke a troll.
+
+REACT_TO_DIE_GENERAL
+--------------------
+Rest easy, friend. We'll avenge you.
+
+CRITICAL_HIT
+------------
+Raage!
+
+CRITICAL_MISS
+--------------
+Hrm, I missed!
+
+TARGET_IMMUNE
+-------------
+What?! Immune! My strength means nothin'.
+
+INVENTORY_FULL
+--------------
+My back's overloaded! Maybe someone else can carry it.
+
+PICKED_POCKET
+-------------
+Safer in my hand.
+
+HIDDEN_IN_SHADOWS
+-----------------
+Into Shadows. Watching my prey.
+
+SPELL_DISRUPTED
+---------------
+Ugh, my spell is not working.
+
+SET_A_TRAP
+----------
+Cunning trap laid. Now the real hunt begins.
+
+BGEE_ACTION_ACKNOWLEDGEMENT4
+----------------------------
+Already Done.
+
+BGEE_ACTION_ACKNOWLEDGEMENT5
+----------------------------
+Fine. Sounds like a plan.
+
+BGEE_ACTION_ACKNOWLEDGEMENT6
+----------------------------
+I agree.
+
+BGEE_ACTION_ACKNOWLEDGEMENT7
+----------------------------
+Sure, whatever.
