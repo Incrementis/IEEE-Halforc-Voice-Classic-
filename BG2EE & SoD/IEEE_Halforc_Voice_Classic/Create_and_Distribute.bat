@@ -9,16 +9,18 @@ setlocal DISABLEDELAYEDEXPANSION
 REM ------------------------
 REM INIT Soundset File Names
 REM ------------------------
-Set soundsetName[0]=!_DEMO
+Set soundsetName[0]=!_CHAO
 REM --------------
 REM INIT Languages
 REM --------------
 REM (en_US = English, de_DE = German)
 Set languages[0]=en_US
+Set languages[1]=de_DE
 REM --------------------------
 REM INIT Soundset Custom Names
 REM --------------------------
-Set en_US[0]=!_Demo(Complete):Female Robot
+Set en_US[0]=!_IEEE Halforc:Classic
+Set de_DE[0]=!_IEEE Halbork:Klassisch
 REM -----------------
 REM INIT Folder Paths
 REM -----------------
