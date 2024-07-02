@@ -1,46 +1,46 @@
 // ---INITIALIZE DYN ARRAY TEXTS
-OUTER_SPRINT ~Texts0~ ~TODO~ //"!_CHAO0.wav" Selected 4
-OUTER_SPRINT ~Texts1~ ~TODO~ //"!_CHAO0_.wav" Action Acknowledgement 4 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 1
-OUTER_SPRINT ~Texts2~ ~TODO~ //"!_CHAO1.wav" Critical Miss
-OUTER_SPRINT ~Texts3~ ~TODO~ //"!_CHAO1_.wav" Action Acknowledgement 5 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 2
-OUTER_SPRINT ~Texts4~ ~TODO~ //"!_CHAO2.wav" Target Immune
-OUTER_SPRINT ~Texts5~ ~TODO~ //"!_CHAO2_.wav" Action Acknowledgement 6 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 3
-OUTER_SPRINT ~Texts6~ ~TODO~ //"!_CHAO3.wav" Inventory Full
-OUTER_SPRINT ~Texts7~ ~TODO~ //"!_CHAO3_.wav" Action Acknowledgement 7 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 4
-OUTER_SPRINT ~Texts8~ ~TODO~ //"!_CHAO4.wav" Picked Pocked
-OUTER_SPRINT ~Texts9~ ~TODO~ //"!_CHAO5.wav" Hidden in Shadow
-OUTER_SPRINT ~Texts10~ ~TODO~ //"!_CHAO6.wav" Spell Disrupted
-OUTER_SPRINT ~Texts11~ ~TODO~ //"!_CHAO7.wav" Set a Trap
-OUTER_SPRINT ~Texts12~ ~TODO~ //"!_CHAO8.wav" Battle Cry 2
-OUTER_SPRINT ~Texts13~ ~TODO~ //"!_CHAO9.wav" Battle Cry 3
-OUTER_SPRINT ~Texts14~ ~TODO~ //"!_CHAOa.wav" Battle Cry 1
-OUTER_SPRINT ~Texts15~ ~TODO~ //"!_CHAOb.wav" Becoming Leader
-OUTER_SPRINT ~Texts16~ ~TODO~ //"!_CHAOc.wav" Tired
-OUTER_SPRINT ~Texts17~ ~TODO~ //"!_CHAOd.wav" Bored
-OUTER_SPRINT ~Texts18~ ~TODO~ //"!_CHAOe.wav" Badly Wounded
-OUTER_SPRINT ~Texts19~ ~TODO~ //"!_CHAOf.wav" Selected 1
-OUTER_SPRINT ~Texts20~ ~TODO~ //"!_CHAOg.wav" Selected 2
-OUTER_SPRINT ~Texts21~ ~TODO~ //"!_CHAOg_.wav" Battle Cry 4
-OUTER_SPRINT ~Texts22~ ~TODO~ //"!_CHAOh.wav" Selected 3
-OUTER_SPRINT ~Texts23~ ~TODO~ //"!_CHAOh_.wav" Battle Cry 5
-OUTER_SPRINT ~Texts24~ ~TODO~ //"!_CHAOi.wav" Action Acknowledgement 1
-OUTER_SPRINT ~Texts25~ ~TODO~ //"!_CHAOj.wav" Action Acknowledgement 2
-OUTER_SPRINT ~Texts26~ ~TODO~ //"!_CHAOk.wav" Action Acknowledgement 3
-OUTER_SPRINT ~Texts27~ ~TODO~ //"!_CHAOk_.wav" Selected 5
-OUTER_SPRINT ~Texts28~ ~TODO~ //"!_CHAOl.wav" Beeing Hit
-OUTER_SPRINT ~Texts29~ ~TODO~ //"!_CHAOl_.wav" Selected 6
-OUTER_SPRINT ~Texts30~ ~TODO~ //"!_CHAOm.wav" Dying
-OUTER_SPRINT ~Texts31~ ~TODO~ //"!_CHAOn.wav" In Forest
-OUTER_SPRINT ~Texts32~ ~TODO~ //"!_CHAOo.wav" In City
-OUTER_SPRINT ~Texts33~ ~TODO~ //"!_CHAOp.wav" In Dungeon
-OUTER_SPRINT ~Texts34~ ~TODO~ //"!_CHAOq.wav" Daytime
-OUTER_SPRINT ~Texts35~ ~TODO~ //"!_CHAOr.wav" Nighttime
-OUTER_SPRINT ~Texts36~ ~TODO~ //"!_CHAOs.wav" BGEE[IWDEE] Action Acknowledgement 4 or Action Acknowledgement 4 for BGEE2
-OUTER_SPRINT ~Texts37~ ~TODO~ //"!_CHAOt.wav" BGEE[IWDEE] Action Acknowledgement 5 or Action Acknowledgement 5 for BGEE2
-OUTER_SPRINT ~Texts38~ ~TODO~ //"!_CHAOu.wav" BGEE[IWDEE] Action Acknowledgement 6 or Action Acknowledgement 6 for BGEE2
-OUTER_SPRINT ~Texts39~ ~TODO~ //"!_CHAOv.wav" BGEE[IWDEE] Action Acknowledgement 7 or Action Acknowledgement 7 for BGEE2
-OUTER_SPRINT ~Texts40~ ~TODO~ //"!_CHAOw.wav" Reaction to Party Member Death
-OUTER_SPRINT ~Texts41~ ~TODO~ //"!_CHAOz.wav" Critical Hit
+OUTER_SPRINT ~Texts0~ ~I am listening.~ //"!_CHAO0.wav" Selected 4
+OUTER_SPRINT ~Texts1~ ~Huh, why you pokin' me? You see somethin' movin' out there? Some scrawny rabbit or a sneaky runt maybe? Don't waste my time with runts. If it's somethin' bigger, point it out, but don't expect me to cook it after. I ain't no chef!~ //"!_CHAO0_.wav" Action Acknowledgement 4 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 1
+OUTER_SPRINT ~Texts2~ ~Hrm, I missed!~ //"!_CHAO1.wav" Critical Miss
+OUTER_SPRINT ~Texts3~ ~Winterwolf pelts, eh? Valuable you say? Hmm, sounds like a worthy hunt. Might cool you down a bit too, after all that poking. Just sayin'. Hah!~ //"!_CHAO1_.wav" Action Acknowledgement 5 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 2
+OUTER_SPRINT ~Texts4~ ~What?! Immune! My strength means nothin'.~ //"!_CHAO2.wav" Target Immune
+OUTER_SPRINT ~Texts5~ ~My Mother?! Never knew her. Doesn't change who I am. Now what?~ //"!_CHAO2_.wav" Action Acknowledgement 6 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 3
+OUTER_SPRINT ~Texts6~ ~My back's overloaded! Maybe someone else can carry it.~ //"!_CHAO3.wav" Inventory Full
+OUTER_SPRINT ~Texts7~ ~You're a thorn in my side, friend. Perfect, keep that mindset. We'll face enough trouble to choke a troll.~ //"!_CHAO3_.wav" Action Acknowledgement 7 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 4
+OUTER_SPRINT ~Texts8~ ~Safer in my hand.~ //"!_CHAO4.wav" Picked Pocked
+OUTER_SPRINT ~Texts9~ ~Into Shadows. Watching my prey.~ //"!_CHAO5.wav" Hidden in Shadow
+OUTER_SPRINT ~Texts10~ ~Ugh, my spell is not working.~ //"!_CHAO6.wav" Spell Disrupted
+OUTER_SPRINT ~Texts11~ ~Cunning trap laid. Now the real hunt begins.~ //"!_CHAO7.wav" Set a Trap
+OUTER_SPRINT ~Texts12~ ~Your hide is mine, now!~ //"!_CHAO8.wav" Battle Cry 2
+OUTER_SPRINT ~Texts13~ ~You WILL be hunted down!~ //"!_CHAO9.wav" Battle Cry 3
+OUTER_SPRINT ~Texts14~ ~You won't last long!~ //"!_CHAOa.wav" Battle Cry 1
+OUTER_SPRINT ~Texts15~ ~Time to earn some respect.~ //"!_CHAOb.wav" Becoming Leader
+OUTER_SPRINT ~Texts16~ ~We need to camp. Let's stop and build a fire before the hunt continues.~ //"!_CHAOc.wav" Tired
+OUTER_SPRINT ~Texts17~ ~This waiting game is killing me. If we don't move soon, I'm finding a quiet corner for a nap.~ //"!_CHAOd.wav" Bored
+OUTER_SPRINT ~Texts18~ ~Uff, looks like I'll be needing some fancy needlework. Again.~ //"!_CHAOe.wav" Badly Wounded
+OUTER_SPRINT ~Texts19~ ~Tell me what you need.~ //"!_CHAOf.wav" Selected 1
+OUTER_SPRINT ~Texts20~ ~Let's bring back some trophies.~ //"!_CHAOg.wav" Selected 2
+OUTER_SPRINT ~Texts21~ ~Time for punishment.~ //"!_CHAOg_.wav" Battle Cry 4
+OUTER_SPRINT ~Texts22~ ~Time for hunting, right?!~ //"!_CHAOh.wav" Selected 3
+OUTER_SPRINT ~Texts23~ ~Learn respect, or fall!~ //"!_CHAOh_.wav" Battle Cry 5
+OUTER_SPRINT ~Texts24~ ~I can handle it.~ //"!_CHAOi.wav" Action Acknowledgement 1
+OUTER_SPRINT ~Texts25~ ~Finally!~ //"!_CHAOj.wav" Action Acknowledgement 2
+OUTER_SPRINT ~Texts26~ ~About time for some real action!~ //"!_CHAOk.wav" Action Acknowledgement 3
+OUTER_SPRINT ~Texts27~ ~You can trust my senses.~ //"!_CHAOk_.wav" Selected 5
+OUTER_SPRINT ~Texts28~ ~Ugh, just a scratch!~ //"!_CHAOl.wav" Beeing Hit
+OUTER_SPRINT ~Texts29~ ~huh?!~ //"!_CHAOl_.wav" Selected 6
+OUTER_SPRINT ~Texts30~ ~Nooo, I..must..live! Ugh...~ //"!_CHAOm.wav" Dying
+OUTER_SPRINT ~Texts31~ ~This forest is a hunter's paradise. Plenty of prey and shadows to hide in.~ //"!_CHAOn.wav" In Forest
+OUTER_SPRINT ~Texts32~ ~*sniff, sniff* Hrmm, stinks here. But hey, if you gotta hunt for gold instead of prey, the city is the place.~ //"!_CHAOo.wav" In City
+OUTER_SPRINT ~Texts33~ ~Hrm, I don't like this kind of dark places. I feel like I'm watched.~ //"!_CHAOp.wav" In Dungeon
+OUTER_SPRINT ~Texts34~ ~Sunshine is better than a blizzard.~ //"!_CHAOq.wav" Daytime
+OUTER_SPRINT ~Texts35~ ~Under this moon, anything can happen. Keep your eyes sharp.~ //"!_CHAOr.wav" Nighttime
+OUTER_SPRINT ~Texts36~ ~Already done.~ //"!_CHAOs.wav" BGEE[IWDEE] Action Acknowledgement 4 or Action Acknowledgement 4 for BGEE2
+OUTER_SPRINT ~Texts37~ ~Fine. Sounds like a plan.~ //"!_CHAOt.wav" BGEE[IWDEE] Action Acknowledgement 5 or Action Acknowledgement 5 for BGEE2
+OUTER_SPRINT ~Texts38~ ~I agree.~ //"!_CHAOu.wav" BGEE[IWDEE] Action Acknowledgement 6 or Action Acknowledgement 6 for BGEE2
+OUTER_SPRINT ~Texts39~ ~Sure, whatever.~ //"!_CHAOv.wav" BGEE[IWDEE] Action Acknowledgement 7 or Action Acknowledgement 7 for BGEE2
+OUTER_SPRINT ~Texts40~ ~Rest easy, friend. We'll avenge you.~ //"!_CHAOw.wav" Reaction to Party Member Death
+OUTER_SPRINT ~Texts41~ ~Raaage!~ //"!_CHAOz.wav" Critical Hit
 LAM ~!_Texts~
 // ---INITIALIZE DYN ARRAY NAMES
 OUTER_SPRINT ~VoxNames0~ ~!_CHAO~

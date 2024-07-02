@@ -1,46 +1,47 @@
 // ---INITIALIZE DYN ARRAY TEXTS
-OUTER_SPRINT ~Texts0~ ~TODO~ //"!_CHAO0.wav" Ausgewählt 4
-OUTER_SPRINT ~Texts1~ ~TODO~ //"!_CHAO0_.wav" Aktionsbestätigung 4 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 1
-OUTER_SPRINT ~Texts2~ ~TODO~ //"!_CHAO1.wav" Kritischer Fehlschlag
-OUTER_SPRINT ~Texts3~ ~TODO~ //"!_CHAO1_.wav" Aktionsbestätigung 5 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 2
-OUTER_SPRINT ~Texts4~ ~TODO~ //"!_CHAO2.wav" Ziel ist immun
-OUTER_SPRINT ~Texts5~ ~TODO~ //"!_CHAO2_.wav" Aktionsbestätigung 6 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 3
-OUTER_SPRINT ~Texts6~ ~TODO~ //"!_CHAO3.wav" Inventar voll
-OUTER_SPRINT ~Texts7~ ~TODO~ //"!_CHAO3_.wav" Aktionsbestätigung 7 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 4
-OUTER_SPRINT ~Texts8~ ~TODO~ //"!_CHAO4.wav" Taschendiebstahl
-OUTER_SPRINT ~Texts9~ ~TODO~ //"!_CHAO5.wav" Versteckt im Schaten
-OUTER_SPRINT ~Texts10~ ~TODO~ //"!_CHAO6.wav" Zauber unterbrochen
-OUTER_SPRINT ~Texts11~ ~TODO~ //"!_CHAO7.wav" Falle stellen
-OUTER_SPRINT ~Texts12~ ~TODO~ //"!_CHAO8.wav" Schlachtruf 2
-OUTER_SPRINT ~Texts13~ ~TODO~ //"!_CHAO9.wav" Schlachtruf 3
-OUTER_SPRINT ~Texts14~ ~TODO~ //"!_CHAOa.wav" Schlachtruf 1
-OUTER_SPRINT ~Texts15~ ~TODO~ //"!_CHAOb.wav" Anführer werden
-OUTER_SPRINT ~Texts16~ ~TODO~ //"!_CHAOc.wav" Müde
-OUTER_SPRINT ~Texts17~ ~TODO~ //"!_CHAOd.wav" Gelangweilt
-OUTER_SPRINT ~Texts18~ ~TODO~ //"!_CHAOe.wav" Schwer verwundet
-OUTER_SPRINT ~Texts19~ ~TODO~ //"!_CHAOf.wav" Ausgewählt 1
-OUTER_SPRINT ~Texts20~ ~TODO~ //"!_CHAOg.wav" Ausgewählt 2
-OUTER_SPRINT ~Texts21~ ~TODO~ //"!_CHAOg_.wav" Schlachtruf 4
-OUTER_SPRINT ~Texts22~ ~TODO~ //"!_CHAOh.wav" Ausgewählt 3
-OUTER_SPRINT ~Texts23~ ~TODO~ //"!_CHAOh_.wav" Schlachtruf 5
-OUTER_SPRINT ~Texts24~ ~TODO~ //"!_CHAOi.wav" Aktionsbestätigung 1
-OUTER_SPRINT ~Texts25~ ~TODO~ //"!_CHAOj.wav" Aktionsbestätigung 2
-OUTER_SPRINT ~Texts26~ ~TODO~ //"!_CHAOk.wav" Aktionsbestätigung 3
-OUTER_SPRINT ~Texts27~ ~TODO~ //"!_CHAOk_.wav" Ausgewählt 5
-OUTER_SPRINT ~Texts28~ ~TODO~ //"!_CHAOl.wav" Getroffen werden
-OUTER_SPRINT ~Texts29~ ~TODO~ //"!_CHAOl_.wav" Ausgewählt 6
-OUTER_SPRINT ~Texts30~ ~TODO~ //"!_CHAOm.wav" Sterben
-OUTER_SPRINT ~Texts31~ ~TODO~ //"!_CHAOn.wav" Im Wald
-OUTER_SPRINT ~Texts32~ ~TODO~ //"!_CHAOo.wav" In der Stadt
-OUTER_SPRINT ~Texts33~ ~TODO~ //"!_CHAOp.wav" Im Kerker
-OUTER_SPRINT ~Texts34~ ~TODO~ //"!_CHAOq.wav" Tagsüber
-OUTER_SPRINT ~Texts35~ ~TODO~ //"!_CHAOr.wav" Nachts
-OUTER_SPRINT ~Texts36~ ~TODO~ //"!_CHAOs.wav" BGEE[IWDEE] Aktionsbestätigung 4 oder Aktionsbestätigung 4 für BGEE2
-OUTER_SPRINT ~Texts37~ ~TODO~ //"!_CHAOt.wav" BGEE[IWDEE] Aktionsbestätigung 5 oder Aktionsbestätigung 5 für BGEE2
-OUTER_SPRINT ~Texts38~ ~TODO~ //"!_CHAOu.wav" BGEE[IWDEE] Aktionsbestätigung 6 oder Aktionsbestätigung 6 für BGEE2
-OUTER_SPRINT ~Texts39~ ~TODO~ //"!_CHAOv.wav" BGEE[IWDEE] Aktionsbestätigung 7 oder Aktionsbestätigung 7 für BGEE2
-OUTER_SPRINT ~Texts40~ ~TODO~ //"!_CHAOw.wav" Reaktion auf den Tod eines Gruppenmitglieds
-OUTER_SPRINT ~Texts41~ ~TODO~ //"!_CHAOz.wav" Kritischer Treffer
+OUTER_SPRINT ~Texts0~ ~Ich höre.~ //"!_CHAO0.wav" Ausgewählt 4
+OUTER_SPRINT ~Texts1~ ~Huh, was ist denn? Siehst du ein Kleintier etwa, dass du gerne haben möchtest? Verschwende meine Zeit nicht mit sowas. Aber wenn es etwas Größeres ist, dann jage ich es für dich, aber erwarte nicht, dass ich es koche. Ich bin kein Koch!~ //"!_CHAO0_.wav" Aktionsbestätigung 4 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 1
+OUTER_SPRINT ~Texts2~ ~Hrm, ein flinker Gegner.~ //"!_CHAO1.wav" Kritischer Fehlschlag
+OUTER_SPRINT ~Texts3~ ~Winterwolf-Pelze, was? Wertvoll, sagst du? Hmm, das klingt nach einer lohnenden Jagd. 
+Könnte dich vielleicht auch etwas abkühlen, nach all dem Geplappere. Ich sag bloß'. Hah!~ //"!_CHAO1_.wav" Aktionsbestätigung 5 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 2
+OUTER_SPRINT ~Texts4~ ~Immun! Meine Stärke ist wirkungslos.~ //"!_CHAO2.wav" Ziel ist immun
+OUTER_SPRINT ~Texts5~ ~Meine Mutter?! Ich habe sie nie kennengelernt. Das ändert nichts daran, wie ich bin. Was nun?~ //"!_CHAO2_.wav" Aktionsbestätigung 6 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 3
+OUTER_SPRINT ~Texts6~ ~Mein Rucksack ist voll! Vielleicht kann es jemand anderes tragen.~ //"!_CHAO3.wav" Inventar voll
+OUTER_SPRINT ~Texts7~ ~Du bist mir ja ein Dorn im Auge. Perfekt, behalte die Einstellung. Wir werden genug Ärger haben, um einen Troll zu erschrecken.~ //"!_CHAO3_.wav" Aktionsbestätigung 7 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 4
+OUTER_SPRINT ~Texts8~ ~Das gehört jetzt mir.~ //"!_CHAO4.wav" Taschendiebstahl
+OUTER_SPRINT ~Texts9~ ~In die Schatten und mein Blick zur Beute.~ //"!_CHAO5.wav" Versteckt im Schaten
+OUTER_SPRINT ~Texts10~ ~ugh, mein Zauber wirkt nicht!~ //"!_CHAO6.wav" Zauber unterbrochen
+OUTER_SPRINT ~Texts11~ ~Listige Falle gelegt. Jetzt beginnt die eigentliche Jagd.~ //"!_CHAO7.wav" Falle stellen
+OUTER_SPRINT ~Texts12~ ~Ich zieh dir das Fell über die Ohren!~ //"!_CHAO8.wav" Schlachtruf 2
+OUTER_SPRINT ~Texts13~ ~Auf zur Jagd!~ //"!_CHAO9.wav" Schlachtruf 3
+OUTER_SPRINT ~Texts14~ ~Dich gibts nicht mehr lang.~ //"!_CHAOa.wav" Schlachtruf 1
+OUTER_SPRINT ~Texts15~ ~Jawohl, wurde auch langsam Zeit.~ //"!_CHAOb.wav" Anführer werden
+OUTER_SPRINT ~Texts16~ ~Wir müssen rasten. Lasst uns anhalten und ein Feuer machen, bevor die Jagd weitergeht.~ //"!_CHAOc.wav" Müde
+OUTER_SPRINT ~Texts17~ ~Dieses Wartespiel ist nicht auszuhalten. Wenn wir nicht bald was machen, suche ich mir eine ruhige Ecke für ein Nickerchen.~ //"!_CHAOd.wav" Gelangweilt
+OUTER_SPRINT ~Texts18~ ~Uff, verdammt, meine Wunden schließen sich nicht von alleine.~ //"!_CHAOe.wav" Schwer verwundet
+OUTER_SPRINT ~Texts19~ ~Ich vertraue dir.~ //"!_CHAOf.wav" Ausgewählt 1
+OUTER_SPRINT ~Texts20~ ~Suchen wir nach Trophäen.~ //"!_CHAOg.wav" Ausgewählt 2
+OUTER_SPRINT ~Texts21~ ~Jetzt gibt's Ärger!~ //"!_CHAOg_.wav" Schlachtruf 4
+OUTER_SPRINT ~Texts22~ ~Lass uns jagen gehen.~ //"!_CHAOh.wav" Ausgewählt 3
+OUTER_SPRINT ~Texts23~ ~Zeige Respekt, oder leide!~ //"!_CHAOh_.wav" Schlachtruf 5
+OUTER_SPRINT ~Texts24~ ~Das schaffe ich!~ //"!_CHAOi.wav" Aktionsbestätigung 1
+OUTER_SPRINT ~Texts25~ ~Genau richtig für mich.~ //"!_CHAOj.wav" Aktionsbestätigung 2
+OUTER_SPRINT ~Texts26~ ~Genug geredet, zeit für Taten.~ //"!_CHAOk.wav" Aktionsbestätigung 3
+OUTER_SPRINT ~Texts27~ ~Du kannst meinen Sinnen trauen.~ //"!_CHAOk_.wav" Ausgewählt 5
+OUTER_SPRINT ~Texts28~ ~Ugh, is nur'n Kratzer.~ //"!_CHAOl.wav" Getroffen werden
+OUTER_SPRINT ~Texts29~ ~huh?!~ //"!_CHAOl_.wav" Ausgewählt 6
+OUTER_SPRINT ~Texts30~ ~Neeeiin, ich darf...nicht...sterben! Ugh...~ //"!_CHAOm.wav" Sterben
+OUTER_SPRINT ~Texts31~ ~Die Wildnis ist das perfekte Jagdrevier! Dichtes Blattwerk und tiefe Schatten.~ //"!_CHAOn.wav" Im Wald
+OUTER_SPRINT ~Texts32~ ~Frische Luft ist hier eine Seltenheit, aber dafür kann man in der Stadt mit etwas Glück reich werden.~ //"!_CHAOo.wav" In der Stadt
+OUTER_SPRINT ~Texts33~ ~Ich mag solche dunklen Orte nicht. Ich habe das Gefühl, beobachtet zu werden.~ //"!_CHAOp.wav" Im Kerker
+OUTER_SPRINT ~Texts34~ ~Zumindest ist diese grelle Sonne nicht so schlimm wie ein Schneesturm.~ //"!_CHAOq.wav" Tagsüber
+OUTER_SPRINT ~Texts35~ ~Der Mond und die Nacht...lauscht genau, und beobachtet eure Umgebung.~ //"!_CHAOr.wav" Nachts
+OUTER_SPRINT ~Texts36~ ~So gut wie erledigt.~ //"!_CHAOs.wav" BGEE[IWDEE] Aktionsbestätigung 4 oder Aktionsbestätigung 4 für BGEE2
+OUTER_SPRINT ~Texts37~ ~Also gut, klingt nach einem soliden Plan.~ //"!_CHAOt.wav" BGEE[IWDEE] Aktionsbestätigung 5 oder Aktionsbestätigung 5 für BGEE2
+OUTER_SPRINT ~Texts38~ ~Einverstanden.~ //"!_CHAOu.wav" BGEE[IWDEE] Aktionsbestätigung 6 oder Aktionsbestätigung 6 für BGEE2
+OUTER_SPRINT ~Texts39~ ~Sicher doch.~ //"!_CHAOv.wav" BGEE[IWDEE] Aktionsbestätigung 7 oder Aktionsbestätigung 7 für BGEE2
+OUTER_SPRINT ~Texts40~ ~Ruhe in frieden! Deine Rache ist bei uns in guten Händen.~ //"!_CHAOw.wav" Reaktion auf den Tod eines Gruppenmitglieds
+OUTER_SPRINT ~Texts41~ ~Zorrrnnn~ //"!_CHAOz.wav" Kritischer Treffer
 LAM ~!_Texts~
 // ---INITIALIZE DYN ARRAY NAMES
 OUTER_SPRINT ~VoxNames0~ ~!_CHAO~
