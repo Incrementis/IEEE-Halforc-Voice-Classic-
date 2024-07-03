@@ -17,7 +17,7 @@ OUTER_SPRINT ~Texts14~ ~You won't last long!~ //"!_CHAOa.wav" Battle Cry 1
 OUTER_SPRINT ~Texts15~ ~Time to earn some respect.~ //"!_CHAOb.wav" Becoming Leader
 OUTER_SPRINT ~Texts16~ ~We need to camp. Let's stop and build a fire before the hunt continues.~ //"!_CHAOc.wav" Tired
 OUTER_SPRINT ~Texts17~ ~This waiting game is killing me. If we don't move soon, I'm finding a quiet corner for a nap.~ //"!_CHAOd.wav" Bored
-OUTER_SPRINT ~Texts18~ ~Uff, looks like I'll be needing some fancy needlework. Again.~ //"!_CHAOe.wav" Badly Wounded
+OUTER_SPRINT ~Texts18~ ~Uff, some fancy needlework, NOW!~ //"!_CHAOe.wav" Badly Wounded
 OUTER_SPRINT ~Texts19~ ~Tell me what you need.~ //"!_CHAOf.wav" Selected 1
 OUTER_SPRINT ~Texts20~ ~Let's bring back some trophies.~ //"!_CHAOg.wav" Selected 2
 OUTER_SPRINT ~Texts21~ ~Time for punishment.~ //"!_CHAOg_.wav" Battle Cry 4

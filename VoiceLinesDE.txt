@@ -92,7 +92,7 @@ Das schaffe ich!
 
 AKTIONSBESTÄTIGUNG 2
 --------------------
-Endlich!
+Genau richtig für mich.
 
 AKTIONSBESTÄTIGUNG 3
 --------------------
@@ -116,7 +116,7 @@ Meine Mutter?! Ich habe sie nie kennengelernt. Das ändert nichts daran, wie ich
 
 AKTIONSBESTÄTIGUNG 7
 --------------------
-Hah! Du bist mir ja ein Dorn im Auge. 
+Du bist mir ja ein Dorn im Auge. 
 Perfekt, behalte die Einstellung. Wir werden genug Ärger haben, um einen Troll zu erschrecken. 
 
 REAKTION AUF DEN TOD EINES GRUPPENMITGLIEDS

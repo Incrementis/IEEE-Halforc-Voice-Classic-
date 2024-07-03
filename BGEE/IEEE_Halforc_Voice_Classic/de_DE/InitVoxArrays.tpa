@@ -1,0 +1,156 @@
+// ---INITIALIZE DYN ARRAY TEXTS
+OUTER_SPRINT ~Texts0~ ~Ich höre.~ //"!_CHAO0.wav" Ausgewählt 4
+OUTER_SPRINT ~Texts1~ ~Huh, was ist denn? Siehst du ein Kleintier etwa, dass du gerne haben möchtest? Verschwende meine Zeit nicht mit sowas. Aber wenn es etwas Größeres ist, dann jage ich es für dich, aber erwarte nicht, dass ich es koche. Ich bin kein Koch!~ //"!_CHAO0_.wav" Aktionsbestätigung 4 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 1
+OUTER_SPRINT ~Texts2~ ~Winterwolf-Pelze, was? Wertvoll, sagst du? Hmm, das klingt nach einer lohnenden Jagd. Könnte dich vielleicht auch etwas abkühlen, nach all dem Geplappere. Ich sag bloß'. Hah!~ //"!_CHAO1_.wav" Aktionsbestätigung 5 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 2
+OUTER_SPRINT ~Texts3~ ~Meine Mutter?! Ich habe sie nie kennengelernt. Das ändert nichts daran, wie ich bin. Was nun?~ //"!_CHAO2_.wav" Aktionsbestätigung 6 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 3
+OUTER_SPRINT ~Texts4~ ~Du bist mir ja ein Dorn im Auge. Perfekt, behalte die Einstellung. Wir werden genug Ärger haben, um einen Troll zu erschrecken.~ //"!_CHAO3_.wav" Aktionsbestätigung 7 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 4
+OUTER_SPRINT ~Texts5~ ~Ich zieh dir das Fell über die Ohren!~ //"!_CHAO8.wav" Schlachtruf 2
+OUTER_SPRINT ~Texts6~ ~Auf zur Jagd!~ //"!_CHAO9.wav" Schlachtruf 3
+OUTER_SPRINT ~Texts7~ ~Dich gibts nicht mehr lang.~ //"!_CHAOa.wav" Schlachtruf 1
+OUTER_SPRINT ~Texts8~ ~Jawohl, wurde auch langsam Zeit.~ //"!_CHAOb.wav" Anführer werden
+OUTER_SPRINT ~Texts9~ ~Wir müssen rasten. Lasst uns anhalten und ein Feuer machen, bevor die Jagd weitergeht.~ //"!_CHAOc.wav" Müde
+OUTER_SPRINT ~Texts10~ ~Dieses Wartespiel ist nicht auszuhalten. Wenn wir nicht bald was machen, suche ich mir eine ruhige Ecke für ein Nickerchen.~ //"!_CHAOd.wav" Gelangweilt
+OUTER_SPRINT ~Texts11~ ~Uff, verdammt, meine Wunden schließen sich nicht von alleine.~ //"!_CHAOe.wav" Schwer verwundet
+OUTER_SPRINT ~Texts12~ ~Ich vertraue dir.~ //"!_CHAOf.wav" Ausgewählt 1
+OUTER_SPRINT ~Texts13~ ~Suchen wir nach Trophäen.~ //"!_CHAOg.wav" Ausgewählt 2
+OUTER_SPRINT ~Texts14~ ~Jetzt gibt's Ärger!~ //"!_CHAOg_.wav" Schlachtruf 4
+OUTER_SPRINT ~Texts15~ ~Lass uns jagen gehen.~ //"!_CHAOh.wav" Ausgewählt 3
+OUTER_SPRINT ~Texts16~ ~Du kannst meinen Sinnen trauen.~ //"!_CHAOh_.wav" Schlachtruf 5
+OUTER_SPRINT ~Texts17~ ~Das schaffe ich!~ //"!_CHAOi.wav" Aktionsbestätigung 1
+OUTER_SPRINT ~Texts18~ ~Genau richtig für mich.~ //"!_CHAOj.wav" Aktionsbestätigung 2
+OUTER_SPRINT ~Texts19~ ~Genug geredet, zeit für Taten. ~ //"!_CHAOk.wav" Aktionsbestätigung 3
+OUTER_SPRINT ~Texts20~ ~Du kannst meinen Sinnen trauen.~ //"!_CHAOk_.wav" Ausgewählt 5
+OUTER_SPRINT ~Texts21~ ~Ugh, is nur'n Kratzer.~ //"!_CHAOl.wav" Getroffen werden
+OUTER_SPRINT ~Texts22~ ~huh?!~ //"!_CHAOl_.wav" Ausgewählt 6
+OUTER_SPRINT ~Texts23~ ~Neeeiin, ich darf...nicht...sterben! Ugh...~ //"!_CHAOm.wav" Sterben
+OUTER_SPRINT ~Texts24~ ~Die Wildnis ist das perfekte Jagdrevier! Dichtes Blattwerk und tiefe Schatten.~ //"!_CHAOn.wav" Im Wald
+OUTER_SPRINT ~Texts25~ ~Frische Luft ist hier eine Seltenheit, aber dafür kann man in der Stadt mit etwas Glück reich werden.~ //"!_CHAOo.wav" In der Stadt
+OUTER_SPRINT ~Texts26~ ~Ich mag solche dunklen Orte nicht. Ich habe das Gefühl, beobachtet zu werden.~ //"!_CHAOp.wav" Im Kerker
+OUTER_SPRINT ~Texts27~ ~Zumindest ist diese grelle Sonne nicht so schlimm wie ein Schneesturm.~ //"!_CHAOq.wav" Tagsüber
+OUTER_SPRINT ~Texts28~ ~Der Mond und die Nacht...lauscht genau, und beobachtet eure Umgebung.~ //"!_CHAOr.wav" Nachts
+OUTER_SPRINT ~Texts29~ ~So gut wie erledigt.~ //"!_CHAOs.wav" BGEE[IWDEE] Aktionsbestätigung 4 oder Aktionsbestätigung 4 für BGEE2
+OUTER_SPRINT ~Texts30~ ~Also gut, klingt nach einem soliden Plan.~ //"!_CHAOt.wav" BGEE[IWDEE] Aktionsbestätigung 5 oder Aktionsbestätigung 5 für BGEE2
+OUTER_SPRINT ~Texts31~ ~Einverstanden.~ //"!_CHAOu.wav" BGEE[IWDEE] Aktionsbestätigung 6 oder Aktionsbestätigung 6 für BGEE2
+OUTER_SPRINT ~Texts32~ ~Sicher doch.~ //"!_CHAOv.wav" BGEE[IWDEE] Aktionsbestätigung 7 oder Aktionsbestätigung 7 für BGEE2
+OUTER_SPRINT ~Texts33~ ~Ruhe in frieden! Deine Rache ist bei uns in guten Händen.~ //"!_CHAOw.wav" Reaktion auf den Tod eines Gruppenmitglieds
+LAM ~!_Texts~
+// ---INITIALIZE DYN ARRAY NAMES
+OUTER_SPRINT ~VoxNames0~ ~!_CHAO~
+LAM ~!_VoxNames~
+// ---INITIALIZE DYN ARRAY SELECTABLE NAMES
+OUTER_SPRINT ~VoxSelectNames0~ ~!_IEEE Halbork:Klassisch~
+LAM ~!_VoxSelectNames~	
+// ---INITIALIZE DYN ARRAY SOUNDS
+OUTER_SPRINT ~Sounds0~ ~!_CHAO0~
+OUTER_SPRINT ~Sounds1~ ~!_CHAO0_~
+OUTER_SPRINT ~Sounds2~ ~!_CHAO1_~
+OUTER_SPRINT ~Sounds3~ ~!_CHAO2_~
+OUTER_SPRINT ~Sounds4~ ~!_CHAO3_~
+OUTER_SPRINT ~Sounds5~ ~!_CHAO8~
+OUTER_SPRINT ~Sounds6~ ~!_CHAO9~
+OUTER_SPRINT ~Sounds7~ ~!_CHAOa~
+OUTER_SPRINT ~Sounds8~ ~!_CHAOb~
+OUTER_SPRINT ~Sounds9~ ~!_CHAOc~
+OUTER_SPRINT ~Sounds10~ ~!_CHAOd~
+OUTER_SPRINT ~Sounds11~ ~!_CHAOe~
+OUTER_SPRINT ~Sounds12~ ~!_CHAOf~
+OUTER_SPRINT ~Sounds13~ ~!_CHAOg~
+OUTER_SPRINT ~Sounds14~ ~!_CHAOg_~
+OUTER_SPRINT ~Sounds15~ ~!_CHAOh~
+OUTER_SPRINT ~Sounds16~ ~!_CHAOh_~
+OUTER_SPRINT ~Sounds17~ ~!_CHAOi~
+OUTER_SPRINT ~Sounds18~ ~!_CHAOj~
+OUTER_SPRINT ~Sounds19~ ~!_CHAOk~
+OUTER_SPRINT ~Sounds20~ ~!_CHAOk_~
+OUTER_SPRINT ~Sounds21~ ~!_CHAOl~
+OUTER_SPRINT ~Sounds22~ ~!_CHAOl_~
+OUTER_SPRINT ~Sounds23~ ~!_CHAOm~
+OUTER_SPRINT ~Sounds24~ ~!_CHAOn~
+OUTER_SPRINT ~Sounds25~ ~!_CHAOo~
+OUTER_SPRINT ~Sounds26~ ~!_CHAOp~
+OUTER_SPRINT ~Sounds27~ ~!_CHAOq~
+OUTER_SPRINT ~Sounds28~ ~!_CHAOr~
+OUTER_SPRINT ~Sounds29~ ~!_CHAOs~
+OUTER_SPRINT ~Sounds30~ ~!_CHAOt~
+OUTER_SPRINT ~Sounds31~ ~!_CHAOu~
+OUTER_SPRINT ~Sounds32~ ~!_CHAOv~
+OUTER_SPRINT ~Sounds33~ ~!_CHAOw~
+LAM ~!_Sounds~
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bgee~) OR  (FILE_EXISTS ~sod-dlc.zip~) OR (FILE_EXISTS ~dlc/sod-dlc.zip~) OR (GAME_IS ~iwdee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 35
+OUTER_SET ~Positions2~ = 36
+OUTER_SET ~Positions3~ = 37
+OUTER_SET ~Positions4~ = 38
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 21
+OUTER_SET ~Positions25~ = 22
+OUTER_SET ~Positions26~ = 23
+OUTER_SET ~Positions27~ = 24
+OUTER_SET ~Positions28~ = 25 
+OUTER_SET ~Positions29~ = 79
+OUTER_SET ~Positions30~ = 80
+OUTER_SET ~Positions31~ = 81
+OUTER_SET ~Positions32~ = 82 
+OUTER_SET ~Positions33~ = 53
+LAM ~!_Positions~
+END
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bg2ee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 75
+OUTER_SET ~Positions2~ = 76
+OUTER_SET ~Positions3~ = 77
+OUTER_SET ~Positions4~ = 78
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 21
+OUTER_SET ~Positions25~ = 22
+OUTER_SET ~Positions26~ = 23
+OUTER_SET ~Positions27~ = 24
+OUTER_SET ~Positions28~ = 25 
+OUTER_SET ~Positions29~ = 35
+OUTER_SET ~Positions30~ = 36
+OUTER_SET ~Positions31~ = 37
+OUTER_SET ~Positions32~ = 38
+OUTER_SET ~Positions33~ = 53
+LAM ~!_Positions~
+END
