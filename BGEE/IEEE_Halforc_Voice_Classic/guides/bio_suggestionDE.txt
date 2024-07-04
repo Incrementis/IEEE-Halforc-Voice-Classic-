@@ -8,16 +8,33 @@ Hur-Tok
 
 BIO BGEE & BG2EE:
 -----------------
-Hur-Toks Geburt war eine mehr als ungewöhnlich und spiegelt das Schicksal vieler anderer Halb-Orks in Faerun wider. Vor seiner Geburt wurde seine menschliche Mutter bei einem brutalen Ork-Überfall gefangen genommen. Versklavt musste sie ein halborkisches Kind im Mutterleib tragen. Als eine Gruppe Abenteurer das Orklager infiltrierte und zerstörte, war ihr Gesundheitszustand bereits am Versagen.
-Sie fanden sie tot, aber wie durch ein Wunder überlebte das Baby in ihrem Bauch. Entschlossen, ihm ein sicheres Leben zu ermöglichen, entfernten die Abenteurer ihn aus dem Körper seiner Mutter.
+Hur-Toks Geburt war eine mehr als ungewöhnlich und spiegelt das Schicksal vieler anderer Halb-Orks in Faerun wider. 
+Vor seiner Geburt wurde seine menschliche Mutter bei einem brutalen Ork-Überfall gefangen genommen. 
+Versklavt musste sie ein halborkisches Kind im Mutterleib tragen. 
+Als eine Gruppe Abenteurer das Orklager infiltrierte und zerstörte, war ihr Gesundheitszustand bereits am Versagen.
+Sie fanden sie tot, aber wie durch ein Wunder überlebte das Baby in ihrem Bauch. 
+Entschlossen, ihm ein sicheres Leben zu ermöglichen, entfernten die Abenteurer ihn aus dem Körper seiner Mutter.
 
-Sie brachten Hur-Tok nach Kerzenburg, wo die Mönche ihn großzogen, bis er seinen eigenen Weg bestimmen konnte. Während seiner Jugend schloss Hur-Tok eine enge Freundschaft mit [CHARNAME]. Sie waren unzertrennlich, stellten sich Herausforderungen und spielten den Mönchen gemeinsam Streiche.
-Diese starke Bindung, die in ihrer Jugend geknüpft wurde, führte bis heute zu unerschütterlicher gegenseitiger Unterstützung. Hur-Tok identifiziert sich aufgrund der ähnlichen Hintergrundgeschichte vollständig mit [CHARNAME] und wird niemals von [CHARNAME]s Seite weichen, es sei denn, dies wird ausdrücklich gewünscht. Er würde [CHARNAME] „durch die neun Höllen und zurück“ folgen, wie er oft sagt.
+Sie brachten Hur-Tok nach Kerzenburg, wo die Mönche ihn großzogen, bis er seinen eigenen Weg bestimmen konnte. 
+Während seiner Jugend schloss Hur-Tok eine enge Freundschaft mit [CHARNAME]. 
+Sie waren unzertrennlich, stellten sich Herausforderungen und spielten den Mönchen gemeinsam Streiche.
+Diese starke Bindung, die in ihrer Jugend geknüpft wurde, führte bis heute zu unerschütterlicher gegenseitiger Unterstützung. 
+Hur-Tok identifiziert sich aufgrund der ähnlichen Hintergrundgeschichte vollständig mit [CHARNAME] und wird niemals von [CHARNAME]s Seite weichen, es sei denn, dies wird ausdrücklich gewünscht. 
+Er würde [CHARNAME] „durch die neun Höllen und zurück“ folgen, wie er oft sagt.
 
-Sein orkisches Erbe zeigt sich durch Momente der Wut, die ihn blind für die Vernunft machen. Seine menschliche Seite verleiht ihm jedoch mehr Kontrolle als ein Vollblut-Ork zeigen würde. Er lebt vom Nervenkitzel der Jagd und genießt die Angst, die er seiner Beute einflößt. Allerdings ist er nicht abgeneigt, Magie einzusetzen, wenn die Situation es erfordert. Hur-Tok weiß, wie wichtig es ist, sowohl seine menschlichen als auch seine orkischen Instinkte zu akzeptieren.
+Sein orkisches Erbe zeigt sich durch Momente der Wut, die ihn blind für die Vernunft machen. 
+Seine menschliche Seite verleiht ihm jedoch mehr Kontrolle als ein Vollblut-Ork zeigen würde. 
+Er lebt vom Nervenkitzel der Jagd und genießt die Angst, die er seiner Beute einflößt. 
+Allerdings ist er nicht abgeneigt, Magie einzusetzen, wenn die Situation es erfordert. 
+Hur-Tok weiß, wie wichtig es ist, sowohl seine menschlichen als auch seine orkischen Instinkte zu akzeptieren.
 
-Während Orks ihn als schwach und weich wahrnehmen, betrachten Menschen ihn oft als Rohling. Hur-Tok glaubt, dass er das Beste aus beiden Welten verkörpert und sehnt sich danach, dies zu beweisen. Das Zusammensein mit [CHARNAME] und der Party bietet ihm die perfekte Gelegenheit dazu.
+Während Orks ihn als schwach und weich wahrnehmen, betrachten Menschen ihn oft als Rohling. 
+Hur-Tok glaubt, dass er das Beste aus beiden Welten verkörpert und sehnt sich danach, dies zu beweisen. 
+Das Zusammensein mit [CHARNAME] und der Party bietet ihm die perfekte Gelegenheit dazu.
 
-Aus seiner Kindheit, bleibt ihm eine markante, doch schwache Erinnerung: Einer der Abenteurer, der ihn rettete und nach Kerzenburg brachte, besuchte ihn gelegentlich. Das einzige Detail, das ihn am meisten auffiel, war eine wunderschöne Anstecknadel, die einen Bogen mit vielen Saiten darstellte. Obwohl es keiner Waffe ähnelte, hinterließ es einen bleibenden Eindruck.
+Aus seiner Kindheit, bleibt ihm eine markante, doch schwache Erinnerung: Einer der Abenteurer, der ihn rettete und nach Kerzenburg brachte, besuchte ihn gelegentlich. 
+Das einzige Detail, das ihn am meisten auffiel, war eine wunderschöne Anstecknadel, die einen Bogen mit vielen Saiten darstellte. 
+Obwohl es keiner Waffe ähnelte, hinterließ es einen bleibenden Eindruck.
 
-Das subtile Misstrauen, das ihm entgegengebracht wurde, hat bei allen außer [CHARNAME] zu allgemeinem Misstrauen geführt. [CHARNAME] stellt eine ständige Quelle der Vertrautheit in seinem Leben dar, und Hur-Tok setzt sich energisch für den Schutz von [CHARNAME] ein.
+Das subtile Misstrauen, das ihm entgegengebracht wurde, hat bei allen außer [CHARNAME] zu allgemeinem Misstrauen geführt. 
+[CHARNAME] stellt eine ständige Quelle der Vertrautheit in seinem Leben dar, und Hur-Tok setzt sich energisch für den Schutz von [CHARNAME] ein.
