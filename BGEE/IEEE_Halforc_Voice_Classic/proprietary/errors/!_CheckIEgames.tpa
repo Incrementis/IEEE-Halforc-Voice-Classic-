@@ -21,12 +21,12 @@ BEGIN
 	//~bgee~
 	~bg2ee~
 	~eet~
-	//~iwdee~
+	~iwdee~
 	~pstee~ 
 END
 
 
-OUTER_SPRINT error @2147483647
+OUTER_SPRINT error @1073741823
 
 
 // Checks all game shortcuts
