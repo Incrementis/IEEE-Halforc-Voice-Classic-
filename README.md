@@ -5,7 +5,7 @@ If you click on the image below you will be taken to a sort of teaser video on Y
 
 [![YouTube](https://github.com/Incrementis/Infinity-Engine-Modding-Wiki-Content-/blob/main/Halforc%20Voice%20Classic/Images/WildsAndHalforc.png)](https://www.youtube.com/watch?v=0-as751qQXg)
 
-This mod was created using the [IEEE PCVI Pack](https://github.com/Incrementis/IEEE-Player-Character-Voice-Installer-Pack-) tool/template set.
+This mod was created using the [IEEE PCVI Pack](https://github.com/Incrementis/IEEE-Player-Character-Voice-Installer-Pack-) v1.2.17 tool/template set.
 
 ## Supported Games
 
@@ -20,6 +20,9 @@ BG:EE and IWD:EE versions cannot be installed in SoD or BG2:EE.
 BG:EE can be installed in IWD:EE and SoD.
 IWD:EE cannot be installed in BG:EE.
 
+# Discussion
+* [Beamdog Forums](https://forums.beamdog.com/discussion/88582/voice-mod-ieee-halforc-voice-classic#latest)
+* [G3 Forums](https://www.gibberlings3.net/forums/topic/38457-voice-mod-ieee-halforc-voice-classic/)
 
 ## Operating Systems
 
@@ -55,9 +58,6 @@ Self-written biographies were the inspiration for the creation of the “*Halfor
 You can find these in the “IEEE_Halforc_Voice_Classic/*guides*/” folder.
 It is up to the player how he uses them.
 
-The following links lead to an English and German version.
-They serve as inspiration only. They can be used for character biography.
-
 * [IWDEE](https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-/blob/main/IWDEE/IEEE_Halforc_Voice_Classic/guides/bio_suggestionDE.txt) German
 * [IWDEE](https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-/blob/main/IWDEE/IEEE_Halforc_Voice_Classic/guides/bio_suggestionEN.txt) English
 * [BG:EE](https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-/blob/main/BGEE/IEEE_Halforc_Voice_Classic/guides/bio_suggestionDE.txt) German
@@ -70,7 +70,16 @@ The WAV audio files are stored in the "*/IEEE_Halforc_Voice_Classic/vox/en_US*" 
 
 [VoiceLinesDE.txt](https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-/blob/main/VoiceLinesDE.txt) and [VoiceLinesEN.txt](https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-/blob/main/VoiceLinesEN.txt) contain the recorded lines in text form.
 
+The following warnings can be ignored and will not affect the game if they are displayed when the TLK repair tool is not used and these files were therefore never created.
+```
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/values/!_%TLKindexRepairArray%Buffer.tph!
 
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/values/!_patch%TLKindexRepairArray%Buffer.tph!
+
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/!_%TLKindexRepairArray%.tph!
+
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/!_patch%TLKindexRepairArray%.tph!
+```
 
 ## Troubleshooting
 ### There are known issues when installing SOD as DLC for BG:EE
