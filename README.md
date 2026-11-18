@@ -27,7 +27,7 @@ IWD:EE cannot be installed in BG:EE.
 ## Operating Systems
 
 * Implemented and tested on Micrososft Windows 11
-* It is highly possible that the mod will NOT work on other OS like Linux or MAC
+* The created voice set mod should theoretically work on OSX and UNIX, but it is not tested.
 
 
 ## Compatibility
